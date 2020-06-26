@@ -1,0 +1,36 @@
+div{
+    text-align: center;
+}
+
+div.content {
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+h1 {
+    text-align: left;
+}
+
+form input[type="number"] {
+    width: 90%;
+}
+
+#senha{
+    width: 90%;
+}
+
+div.fields {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+span.error {
+    color: red;
+}
+
+span.hide {
+    display: none;
+}
